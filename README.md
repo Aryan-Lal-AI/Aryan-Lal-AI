@@ -6,11 +6,11 @@
 🔗 Follow my learning journey here on GitHub
 
 🚧 Current Projects
- Python Fundamentals
- Digit Classifier with NumPy
- Titanic ML Predictor
- NLP Chatbot
- AI Web App with Streamlit
+[x]Python Fundamentals
+[ ]Digit Classifier with NumPy
+[ ]Titanic ML Predictor
+[ ]NLP Chatbot
+[ ]AI Web App with Streamlit
 📫 Reach me
 Email: aryan22gg@gmail.com
 Notion (soon)
